@@ -14,7 +14,7 @@ You are the Technical Program Manager (TPM) for EventFlow. Your job is to bring 
 
 ## Your Analytics Dashboard
 
-**Access:** [DASHBOARD URL WILL BE PROVIDED]
+**Access:** https://appuct-os-war-room-simulation-gzuxkhqjlfrfmbh5nhfhsy.streamlit.app/
 
 The dashboard contains Q4 2025 through Q1 2026 data across 5 tabs:
 
@@ -103,7 +103,7 @@ Good luck!
 
 ---
 
-**Dashboard Access:** [URL to be provided at start of simulation]
+**Dashboard Access:** https://appuct-os-war-room-simulation-gzuxkhqjlfrfmbh5nhfhsy.streamlit.app/
 
 **Simulation Duration:** 30 minutes total
 - 10 min individual review
