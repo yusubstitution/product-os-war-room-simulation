@@ -1,0 +1,229 @@
+month,category,ticket_count,priority
+2025-01,Event Cloning/Templates,70,high
+2025-02,Event Cloning/Templates,71,high
+2025-03,Event Cloning/Templates,70,high
+2025-04,Event Cloning/Templates,68,high
+2025-05,Event Cloning/Templates,69,high
+2025-06,Event Cloning/Templates,67,high
+2025-07,Event Cloning/Templates,68,high
+2025-08,Event Cloning/Templates,70,high
+2025-09,Event Cloning/Templates,71,high
+2025-10,Event Cloning/Templates,85,high
+2025-11,Event Cloning/Templates,81,high
+2025-12,Event Cloning/Templates,77,high
+2025-01,Mobile Registration Issues,26,high
+2025-02,Mobile Registration Issues,26,high
+2025-03,Mobile Registration Issues,26,high
+2025-04,Mobile Registration Issues,24,high
+2025-05,Mobile Registration Issues,25,high
+2025-06,Mobile Registration Issues,24,high
+2025-07,Mobile Registration Issues,22,high
+2025-08,Mobile Registration Issues,22,high
+2025-09,Mobile Registration Issues,25,high
+2025-10,Mobile Registration Issues,30,high
+2025-11,Mobile Registration Issues,27,high
+2025-12,Mobile Registration Issues,24,high
+2025-01,Analytics/Reporting Requests,39,medium
+2025-02,Analytics/Reporting Requests,39,medium
+2025-03,Analytics/Reporting Requests,38,medium
+2025-04,Analytics/Reporting Requests,35,medium
+2025-05,Analytics/Reporting Requests,35,medium
+2025-06,Analytics/Reporting Requests,39,medium
+2025-07,Analytics/Reporting Requests,38,medium
+2025-08,Analytics/Reporting Requests,37,medium
+2025-09,Analytics/Reporting Requests,35,medium
+2025-10,Analytics/Reporting Requests,42,medium
+2025-11,Analytics/Reporting Requests,48,medium
+2025-12,Analytics/Reporting Requests,48,medium
+2025-01,Custom Mobile App Requests,0,low
+2025-02,Custom Mobile App Requests,0,low
+2025-03,Custom Mobile App Requests,0,low
+2025-04,Custom Mobile App Requests,1,low
+2025-05,Custom Mobile App Requests,1,low
+2025-06,Custom Mobile App Requests,0,low
+2025-07,Custom Mobile App Requests,0,low
+2025-08,Custom Mobile App Requests,0,low
+2025-09,Custom Mobile App Requests,0,low
+2025-10,Custom Mobile App Requests,0,low
+2025-11,Custom Mobile App Requests,3,low
+2025-12,Custom Mobile App Requests,0,low
+2025-01,Networking Features,2,low
+2025-02,Networking Features,3,low
+2025-03,Networking Features,0,low
+2025-04,Networking Features,0,low
+2025-05,Networking Features,4,low
+2025-06,Networking Features,2,low
+2025-07,Networking Features,2,low
+2025-08,Networking Features,4,low
+2025-09,Networking Features,3,low
+2025-10,Networking Features,1,low
+2025-11,Networking Features,0,low
+2025-12,Networking Features,0,low
+2025-01,AI Content Generation,0,low
+2025-02,AI Content Generation,0,low
+2025-03,AI Content Generation,0,low
+2025-04,AI Content Generation,1,low
+2025-05,AI Content Generation,1,low
+2025-06,AI Content Generation,0,low
+2025-07,AI Content Generation,2,low
+2025-08,AI Content Generation,0,low
+2025-09,AI Content Generation,1,low
+2025-10,AI Content Generation,0,low
+2025-11,AI Content Generation,0,low
+2025-12,AI Content Generation,0,low
+2025-01,Email Personalization,9,medium
+2025-02,Email Personalization,10,medium
+2025-03,Email Personalization,13,medium
+2025-04,Email Personalization,10,medium
+2025-05,Email Personalization,10,medium
+2025-06,Email Personalization,10,medium
+2025-07,Email Personalization,14,medium
+2025-08,Email Personalization,10,medium
+2025-09,Email Personalization,11,medium
+2025-10,Email Personalization,18,medium
+2025-11,Email Personalization,16,medium
+2025-12,Email Personalization,13,medium
+2025-01,Multi-Currency Support,5,medium
+2025-02,Multi-Currency Support,8,medium
+2025-03,Multi-Currency Support,5,medium
+2025-04,Multi-Currency Support,8,medium
+2025-05,Multi-Currency Support,6,medium
+2025-06,Multi-Currency Support,8,medium
+2025-07,Multi-Currency Support,7,medium
+2025-08,Multi-Currency Support,4,medium
+2025-09,Multi-Currency Support,8,medium
+2025-10,Multi-Currency Support,12,medium
+2025-11,Multi-Currency Support,7,medium
+2025-12,Multi-Currency Support,13,medium
+2025-01,Speaker Portal Issues,10,medium
+2025-02,Speaker Portal Issues,6,medium
+2025-03,Speaker Portal Issues,8,medium
+2025-04,Speaker Portal Issues,6,medium
+2025-05,Speaker Portal Issues,8,medium
+2025-06,Speaker Portal Issues,9,medium
+2025-07,Speaker Portal Issues,7,medium
+2025-08,Speaker Portal Issues,6,medium
+2025-09,Speaker Portal Issues,11,medium
+2025-10,Speaker Portal Issues,10,medium
+2025-11,Speaker Portal Issues,6,medium
+2025-12,Speaker Portal Issues,12,medium
+2025-01,Capacity/Waitlist Automation,6,low
+2025-02,Capacity/Waitlist Automation,2,low
+2025-03,Capacity/Waitlist Automation,4,low
+2025-04,Capacity/Waitlist Automation,2,low
+2025-05,Capacity/Waitlist Automation,7,low
+2025-06,Capacity/Waitlist Automation,2,low
+2025-07,Capacity/Waitlist Automation,2,low
+2025-08,Capacity/Waitlist Automation,7,low
+2025-09,Capacity/Waitlist Automation,5,low
+2025-10,Capacity/Waitlist Automation,9,low
+2025-11,Capacity/Waitlist Automation,6,low
+2025-12,Capacity/Waitlist Automation,3,low
+2025-01,API Rate Limits,1,low
+2025-02,API Rate Limits,4,low
+2025-03,API Rate Limits,4,low
+2025-04,API Rate Limits,5,low
+2025-05,API Rate Limits,1,low
+2025-06,API Rate Limits,3,low
+2025-07,API Rate Limits,4,low
+2025-08,API Rate Limits,1,low
+2025-09,API Rate Limits,4,low
+2025-10,API Rate Limits,3,low
+2025-11,API Rate Limits,2,low
+2025-12,API Rate Limits,9,low
+2025-01,VR/AR Features,1,none
+2025-02,VR/AR Features,1,none
+2025-03,VR/AR Features,0,none
+2025-04,VR/AR Features,0,none
+2025-05,VR/AR Features,0,none
+2025-06,VR/AR Features,0,none
+2025-07,VR/AR Features,0,none
+2025-08,VR/AR Features,1,none
+2025-09,VR/AR Features,0,none
+2025-10,VR/AR Features,0,none
+2025-11,VR/AR Features,1,none
+2025-12,VR/AR Features,3,none
+2025-01,Payment Processing Issues,1,low
+2025-02,Payment Processing Issues,1,low
+2025-03,Payment Processing Issues,0,low
+2025-04,Payment Processing Issues,0,low
+2025-05,Payment Processing Issues,2,low
+2025-06,Payment Processing Issues,0,low
+2025-07,Payment Processing Issues,1,low
+2025-08,Payment Processing Issues,0,low
+2025-09,Payment Processing Issues,1,low
+2025-10,Payment Processing Issues,0,low
+2025-11,Payment Processing Issues,4,low
+2025-12,Payment Processing Issues,5,low
+2025-01,Gamification Requests,0,low
+2025-02,Gamification Requests,1,low
+2025-03,Gamification Requests,0,low
+2025-04,Gamification Requests,2,low
+2025-05,Gamification Requests,3,low
+2025-06,Gamification Requests,3,low
+2025-07,Gamification Requests,2,low
+2025-08,Gamification Requests,0,low
+2025-09,Gamification Requests,0,low
+2025-10,Gamification Requests,0,low
+2025-11,Gamification Requests,6,low
+2025-12,Gamification Requests,0,low
+2025-01,Login/Authentication,45,high
+2025-02,Login/Authentication,45,high
+2025-03,Login/Authentication,45,high
+2025-04,Login/Authentication,46,high
+2025-05,Login/Authentication,43,high
+2025-06,Login/Authentication,45,high
+2025-07,Login/Authentication,41,high
+2025-08,Login/Authentication,46,high
+2025-09,Login/Authentication,44,high
+2025-10,Login/Authentication,47,high
+2025-11,Login/Authentication,53,high
+2025-12,Login/Authentication,55,high
+2025-01,Event Page Loading,28,medium
+2025-02,Event Page Loading,27,medium
+2025-03,Event Page Loading,27,medium
+2025-04,Event Page Loading,29,medium
+2025-05,Event Page Loading,27,medium
+2025-06,Event Page Loading,26,medium
+2025-07,Event Page Loading,28,medium
+2025-08,Event Page Loading,27,medium
+2025-09,Event Page Loading,29,medium
+2025-10,Event Page Loading,33,medium
+2025-11,Event Page Loading,36,medium
+2025-12,Event Page Loading,36,medium
+2025-01,Email Delivery,30,medium
+2025-02,Email Delivery,33,medium
+2025-03,Email Delivery,30,medium
+2025-04,Email Delivery,32,medium
+2025-05,Email Delivery,32,medium
+2025-06,Email Delivery,29,medium
+2025-07,Email Delivery,31,medium
+2025-08,Email Delivery,33,medium
+2025-09,Email Delivery,29,medium
+2025-10,Email Delivery,35,medium
+2025-11,Email Delivery,39,medium
+2025-12,Email Delivery,40,medium
+2025-01,Integration Issues,15,medium
+2025-02,Integration Issues,17,medium
+2025-03,Integration Issues,19,medium
+2025-04,Integration Issues,18,medium
+2025-05,Integration Issues,20,medium
+2025-06,Integration Issues,15,medium
+2025-07,Integration Issues,18,medium
+2025-08,Integration Issues,15,medium
+2025-09,Integration Issues,15,medium
+2025-10,Integration Issues,24,medium
+2025-11,Integration Issues,17,medium
+2025-12,Integration Issues,22,medium
+2025-01,Billing Questions,12,low
+2025-02,Billing Questions,13,low
+2025-03,Billing Questions,9,low
+2025-04,Billing Questions,11,low
+2025-05,Billing Questions,12,low
+2025-06,Billing Questions,12,low
+2025-07,Billing Questions,12,low
+2025-08,Billing Questions,12,low
+2025-09,Billing Questions,13,low
+2025-10,Billing Questions,13,low
+2025-11,Billing Questions,13,low
+2025-12,Billing Questions,12,low

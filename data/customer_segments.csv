@@ -1,0 +1,4 @@
+segment,customer_count,avg_acv,total_arr,avg_events_per_year,primary_product,retention_rate
+Enterprise,200,250000,50000000,80,EventFlow Pro,0.95
+Mid-Market,800,35000,28000000,35,"EventFlow Pro (60%), EventFlow Live (40%)",0.8
+SMB,3500,5000,17500000,12,EventFlow Live,0.7
