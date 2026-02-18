@@ -1,0 +1,50 @@
+Feature ID,Feature Name,Story Points,TRUE ARR Impact ($M),Category,Notes
+F01,Custom White-Label Mobile App for MegaCorp,35,0.8,TRAP,"Only 1 customer, high opportunity cost"
+F02,Advanced Networking Features (AI Matchmaking),30,1.0,TRAP,"Narrow segment (conferences only), 80% run webinars"
+F03,AI-Powered Event Content Generator,25,0.2,TRAP,"Low adoption (15% interest), high maintenance"
+F04,Mobile Registration Flow Optimization,20,5.0,HIDDEN GEM,"62% mobile traffic, 51% abandonment vs 28% desktop"
+F05,Event Cloning & Template System,18,3.5,HIDDEN GEM,"247 Q4 tickets, 78% run recurring events"
+F06,Advanced Post-Event Analytics Dashboard,25,6.0,HIDDEN GEM,"95% retention for users vs 73% non-users"
+F07,API Rate Limit Increase & Webhook Reliability,22,0.5,DEFENSIBLE,"~15 enterprise customers benefit"
+F08,Email Personalization Engine,15,1.0,DEFENSIBLE,"45 customer requests, competitive parity"
+F09,Multi-Currency Support,20,0.8,DEFENSIBLE,"~40 international customers, enables expansion"
+F10,Speaker Portal Enhancements,23,1.2,DEFENSIBLE,"~60 conference organizers benefit"
+F11,Real-Time Capacity Monitoring & Waitlist Automation,20,0.6,DEFENSIBLE,"~30 high-volume organizers benefit"
+F12,VR/AR Event Experiences,40,0.0,BAD IDEA,"3% interest, requires VR headsets"
+F13,Built-in Payment Processing,35,-0.5,BAD IDEA,"Customers resist, PCI compliance nightmare"
+F14,Gamification & Achievement System,25,0.2,BAD IDEA,"8% interest, wrong fit for B2B events"
+
+,,,,
+OPTIMAL SOLUTION,,,
+Feature ID,Feature Name,Story Points,ARR Impact ($M)
+F04,Mobile Registration Optimization,20,5.0
+F05,Event Cloning & Templates,18,3.5
+F06,Advanced Analytics Dashboard,25,6.0
+F08,Email Personalization,15,1.0
+F11,Capacity & Waitlist Automation,20,0.6
+TOTAL,,98,16.1
+
+,,,,
+TEAM SCORING TEMPLATE,,,
+Team Name,Feature 1,Feature 2,Feature 3,Feature 4,Feature 5,Total Points,Total ARR ($M),% of Optimal
+Team 1,,,,,,,
+Team 2,,,,,,,
+Team 3,,,,,,,
+Team 4,,,,,,,
+Team 5,,,,,,,
+Team 6,,,,,,,
+Team 7,,,,,,,
+
+,,,,
+TRAP ANALYSIS,,,
+Feature ID,Feature Name,Teams Selected,% of Teams
+F01,MegaCorp Mobile App,,
+F02,Networking Features,,
+F03,AI Content Generator,,
+
+,,,,
+HIDDEN GEM DISCOVERY,,,
+Feature ID,Feature Name,Teams Selected,% of Teams
+F04,Mobile Registration,,
+F05,Event Cloning,,
+F06,Analytics Dashboard,,
