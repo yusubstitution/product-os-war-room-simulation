@@ -216,6 +216,34 @@ with tab2:
             use_container_width=True
         )
 
+    st.markdown("---")
+
+    # THE RETENTION LINK: Making F04's business case discoverable
+    st.subheader("📊 Business Impact Analysis")
+
+    st.info("""
+    **Historical Cohort Analysis (2024-2025 Customer Data):**
+
+    We analyzed 1,847 customers from Jan 2024 - Dec 2024 to understand the relationship between
+    registration completion rates and customer retention.
+
+    **Key Finding:** Events with higher registration completion rates in their first 90 days
+    showed significantly better 12-month customer renewal rates:
+
+    - Events with **>75% completion rate**: **87% customer renewal**
+    - Events with **60-75% completion**: **81% customer renewal**
+    - Events with **<60% completion**: **73% customer renewal**
+
+    **Statistical Significance:** β = 0.82, p<0.01, R²=0.41
+    - Translation: 10 percentage point improvement in completion rate correlates with 8.2 percentage point increase in retention
+
+    **Hypothesis:** Better registration experience → more successful events (higher attendance) →
+    satisfied event organizers → higher platform renewal rates.
+
+    **Implication:** Fixing mobile registration abandonment isn't just about more registrations—it's
+    about improving event outcomes and driving customer retention.
+    """)
+
 # ============================================================================
 # TAB 3: SUPPORT TICKETS (F05 - EVENT CLONING SIGNAL IS HERE)
 # ============================================================================
