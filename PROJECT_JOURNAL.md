@@ -344,3 +344,43 @@ streamlit run app.py
 - [ ] Most teams select suboptimal roadmap (proving the point)
 - [ ] At least 2-3 "trap" features are commonly selected (high noise, low signal)
 - [ ] Debrief clearly demonstrates need for automated signal processing tools
+
+---
+
+## Session Log (Continued)
+
+#### 2026-03-01: Retention Correlation Analysis Added
+
+**Issue Identified:**
+During documentation review, realized F04's business case had a discoverability problem:
+- Dashboard showed mobile abandonment (51% vs 28% desktop)
+- Dashboard showed volume impact (18K lost registrations/month)
+- BUT: Dashboard did NOT show the retention link (completion → renewal correlation)
+
+Without the retention correlation, F04 looked like a **vanity metric** (more registrations) rather than a **retention driver** (better event outcomes → renewals).
+
+**Solution Implemented:**
+Added "Business Impact Analysis" section to Tab 2 (Registration Funnel Analysis) showing:
+- Cohort analysis: >75% completion = 87% renewal vs <60% = 73% renewal
+- Statistical evidence: β = 0.82, p<0.01, R²=0.41
+- Plain language: "10pp completion improvement → 8.2pp retention increase"
+- Causal hypothesis: Better registration → more attendees → successful events → satisfied organizers → renewals
+- Strategic framing: "Fixing mobile registration isn't just about more registrations—it's about driving retention"
+
+**Design Rationale:**
+- Placed **below the fold** in Tab 2 (requires scrolling past abandonment charts)
+- Still rewards thorough exploration and analytical thinking
+- Makes F04 fully defensible: "How could we have known?" → "It was in Tab 2, you just had to scroll"
+- Realistic: Good product analytics teams DO run registration→retention cohort analyses
+
+**Files Updated:**
+- ✅ `app.py` - Added Business Impact Analysis section to Tab 2
+- ✅ `README.md` - Updated F04 description to mention retention correlation
+- ✅ `master-features-list.md` - Updated F04 signal description and "Why It's Hidden"
+- ✅ Committed and pushed to GitHub (commit: 220c1e4)
+
+**Result:**
+All three hidden gems now have **fully discoverable** justifications in the TPM dashboard:
+- F04 (Tab 2): Funnel data + retention correlation (requires scrolling)
+- F05 (Tab 3): 243 Q4 support tickets (2nd highest category)
+- F06 (Tab 4): 95% vs 73% retention correlation with analytics usage (prominently displayed)

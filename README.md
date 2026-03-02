@@ -39,10 +39,11 @@ product-os-war-room-simulation/
 - Signal buried in Tab 2: "Registration Funnel Analysis"
 - 62% mobile traffic, 51% abandonment vs 28% desktop
 - 18,000 lost registrations/month
+- **Retention correlation** (requires scrolling): 10pp completion improvement → 8pp retention increase
 
 **F05: Event Cloning & Templates** (18 pts, $3.5M impact)
 - Signal buried in Tab 3: "Support Tickets"
-- 247 Q4 tickets requesting this feature (2nd highest category)
+- 243 Q4 tickets requesting this feature (2nd highest category)
 
 **F06: Advanced Analytics Dashboard** (25 pts, $6M impact)
 - Signal buried in Tab 4: "Feature Usage & Retention"
